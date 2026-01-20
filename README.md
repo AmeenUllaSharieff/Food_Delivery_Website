@@ -1,4 +1,4 @@
-# AdugeMane - Food Ordering WebApp
+# The Ultimate Paradise - Food Ordering WebApp
 
 AdugeMane is a responsive food ordering web application built on the **MERN stack**. It allows users to order food seamlessly while providing admin functionalities for efficient food and order management.
 
